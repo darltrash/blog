@@ -5,7 +5,11 @@
       "file": "testblog",
       
       "epochtime": 1609953780,
-      "timezone": -3
+      "timezone": -3,
+      
+      "topics": [
+        "testing", "markdown", "hello kitty undertale"
+      ]
     }
   ]
 }
