@@ -1,0 +1,13 @@
+{
+  "title": "darltrash's trashblog",
+  "description": "Here i'll be saving my dumb trashblogs!",
+  "posts": [
+    {
+      "title": "Test Blog",
+      "file": "testblog",
+      
+      "epochtime": 1609953780,
+      "timezone": -3
+    }
+  ]
+}
